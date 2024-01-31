@@ -1,0 +1,29 @@
+.SubHeadCont{
+    width: 100%;
+    height: 50px;
+    background-color: #E6F5F1;
+    display: flex;
+    align-items: center;
+    border: 0.02px solid;
+    border-color: black;
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
+}
+
+.SubTxtBox{
+    display: flex;
+    align-items: start;
+}
+
+.txtBox{
+    background-color: #39386A;
+    padding-left: 20px;
+}
+.SubHeadtxt{
+    color: #39386A;
+    /* flex-grow: 9; */
+}
+
+.arrowBox{
+    padding-right: 20px;
+}
